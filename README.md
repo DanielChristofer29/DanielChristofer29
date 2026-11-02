@@ -51,12 +51,8 @@ Sou desenvolvedor em formação e uso projetos acadêmicos para transformar teor
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielChristofer29&show_icons=true&hide_border=true&locale=pt-br&title_color=22D3EE&icon_color=38BDF8&text_color=CBD5E1&bg_color=0D1117" height="165" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielChristofer29&layout=compact&hide_border=true&locale=pt-br&title_color=22D3EE&text_color=CBD5E1&bg_color=0D1117" height="165" alt="Linguagens mais utilizadas" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DanielChristofer29&color=0891b2&style=flat-square&label=visitas" alt="Contador de visitas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanielChristofer29&theme=github_dark" height="165" alt="Estatísticas do GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanielChristofer29&theme=github_dark" height="165" alt="Linguagens mais utilizadas" />
 </p>
 
 <p align="center">
