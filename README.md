@@ -11,6 +11,7 @@
 <p align="center">
   <a href="https://github.com/DanielChristofer29?tab=repositories"><img src="https://img.shields.io/badge/Meus%20projetos-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="Meus projetos" /></a>
   <a href="https://github.com/DanielChristofer29/fine-line"><img src="https://img.shields.io/badge/Fine%20Line-0891B2?style=for-the-badge&logo=postgresql&logoColor=white" alt="Fine Line" /></a>
+  <a href="https://github.com/DanielChristofer29/nebula-strike"><img src="https://img.shields.io/badge/Nebula%20Strike-7C3AED?style=for-the-badge&logo=python&logoColor=white" alt="Nebula Strike" /></a>
 </p>
 
 ---
@@ -29,7 +30,7 @@ Sou desenvolvedor em formação e uso projetos acadêmicos para transformar teor
 | Projeto | O que é | Tecnologias |
 |:--|:--|:--|
 | [**Fine Line**](https://github.com/DanielChristofer29/fine-line) | Portal acadêmico de notícias com autenticação, painel administrativo, CRUD e testes automatizados. | Node.js · Express · PostgreSQL |
-| **Nebula Strike** | Shoot 'em up refeito para portfólio, com orientação a objetos, ranking, salvamento, power-ups, boss e 14 testes automatizados. | Python · Pygame · JSON · unittest |
+| [**Nebula Strike**](https://github.com/DanielChristofer29/nebula-strike) | Shoot 'em up refeito para portfólio, com orientação a objetos, ranking, salvamento, power-ups, boss e 14 testes automatizados. | Python · Pygame · JSON · unittest |
 
 ### Tecnologias
 
