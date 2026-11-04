@@ -30,7 +30,7 @@ Sou desenvolvedor em formação e uso projetos acadêmicos para transformar teor
 | Projeto | O que é | Tecnologias |
 |:--|:--|:--|
 | [**Fine Line**](https://github.com/DanielChristofer29/fine-line) | Portal acadêmico de notícias com autenticação, painel administrativo, CRUD e testes automatizados. | Node.js · Express · PostgreSQL |
-| [**Nebula Strike**](https://github.com/DanielChristofer29/nebula-strike) | Shoot 'em up refeito para portfólio, com orientação a objetos, ranking, salvamento, power-ups, boss e 14 testes automatizados. | Python · Pygame · JSON · unittest |
+| [**Nebula Strike**](https://github.com/DanielChristofer29/nebula-strike) | Shoot 'em up com três dificuldades, ranking, salvamento, power-ups, boss e 27 testes automatizados. | Python · Pygame · JSON · unittest |
 
 ### Tecnologias
 
